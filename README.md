@@ -1,1 +1,1 @@
-# Workshop_DS
+# Curso Introdução ao Software R - UFLA - DES.
